@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portafolio de un Analista de Datos on Flavio M Conde</title>
+    <link>https://flaviomconde.github.io/Portafolio_DataAnalyst1/</link>
+    <description>Recent content in Portafolio de un Analista de Datos on Flavio M Conde</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Apr 2017 11:13:32 -0400</lastBuildDate>
+    <atom:link href="https://flaviomconde.github.io/Portafolio_DataAnalyst1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proyecto III: ETL y Analisis de Datos (SQL&#43;Power BI)</title>
+      <link>https://flaviomconde.github.io/Portafolio_DataAnalyst1/post/prroyecto-3/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      <guid>https://flaviomconde.github.io/Portafolio_DataAnalyst1/post/prroyecto-3/</guid>
+      <description>Resumen: En este proyecto se tiene como objetivo principal la creación de un sistema de visualización de datos para el Hospital, utilizando MySQL como base de datos y herramientas de visualización como Power BI. Se pudo seguir varios pasos para lograr este objetivo, incluyendo la creación de la base de datos, cargando los datasets correspondientes,, la ejecución de consultas para obtener información clave y la generación de visualizaciones relevantes para el personal del hospital.</description>
+    </item>
+    <item>
+      <title>Proyecto II: Analisis de los precios del mercado financiero</title>
+      <link>https://flaviomconde.github.io/Portafolio_DataAnalyst1/post/proyecto-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <guid>https://flaviomconde.github.io/Portafolio_DataAnalyst1/post/proyecto-2/</guid>
+      <description>Fuimos contratados por una empresa que busca invertir en el mercado bursátil le solicita analizarlo en detalle. Considerando que la empresa no conoce esta área financiera, le solicita una explicación de qué ha sucedido en este mercado en los últimos años (considerando impactos positivos y negativos a partir del año 2000), recomendaciones de inversión (ya sea enfocada en empresas o rubros de éstas) y otra información complementaria que, nosotros como expertos en datos, está en capacidad de brindar.</description>
+    </item>
+    <item>
+      <title>Proyecto I: Sistema de Recomendacion</title>
+      <link>https://flaviomconde.github.io/Portafolio_DataAnalyst1/post/proyecto-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <guid>https://flaviomconde.github.io/Portafolio_DataAnalyst1/post/proyecto-1/</guid>
+      <description>Partiendo del contexto del ciclo de vida de un proyecto de Machine Learning debemos contemplar desde el tratamiento y recolección de los datos (Data Engineer stuff) hasta el entrenamiento y mantenimiento del modelo de ML según llegan nuevos datos. En primer lugar, realice transformaciones específicas en los datos (ETL) para disponibilizarlos a través de endpoints accesibles mediante la API que fue desplegada en Render. En segundo lugar, realice un proceso de EDA a los datos para armar un sistema de recomendacion de peliculas con machine learning.</description>
+    </item>
+    <item>
+      <title>Acerca de</title>
+      <link>https://flaviomconde.github.io/Portafolio_DataAnalyst1/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://flaviomconde.github.io/Portafolio_DataAnalyst1/about/</guid>
+      <description>JAMAS TE RINDAS El análisis de datos y el aprendizaje automático son mi pasión. Mi nombre es Flavio M Conde y trabajo en el campo del análisis de datos desde hace un tiempo. He realizado Proyectos para empresas de Argentina del rubro financiero y tambien trabaje como autonomo desarrollando proyectos de analisis del mercado financiero con el objetivo de inversion. Tambien he realizado proyectos de MLops (sistema de recomendacion). Con el objetivo de desarrolar habilidades y compartir lo que iba aprendiendo decidi hacer videos de mi proceso de aprendizaje en tik tok.</description>
+    </item>
+    <item>
+      <title>Contacto</title>
+      <link>https://flaviomconde.github.io/Portafolio_DataAnalyst1/contacto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://flaviomconde.github.io/Portafolio_DataAnalyst1/contacto/</guid>
+      <description>Sígueme en estas plataformas de redes sociales.&#xA;Plataformas URL Linkedin: https://www.linkedin.com/in/flaviomconde/ Github: https://github.com/flaviomconde Tik Tok: https://www.tiktok.com/@flavio.conde.sw Correo: flavio.conde92@gmail.com </description>
+    </item>
+  </channel>
+</rss>

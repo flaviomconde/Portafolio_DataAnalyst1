@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio of a Data Analyst on Flavio M Conde</title>
+    <link>https://flaviomconde.github.io/Portafolio_DataAnalyst1/in/</link>
+    <description>Recent content in Portfolio of a Data Analyst on Flavio M Conde</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>in</language>
+    <lastBuildDate>Tue, 11 Apr 2017 11:13:32 -0400</lastBuildDate>
+    <atom:link href="https://flaviomconde.github.io/Portafolio_DataAnalyst1/in/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proyecto III: ETL y Analisis de Datos (SQL&#43;Power BI)</title>
+      <link>https://flaviomconde.github.io/Portafolio_DataAnalyst1/in/post/chapter-3/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      <guid>https://flaviomconde.github.io/Portafolio_DataAnalyst1/in/post/chapter-3/</guid>
+      <description>Currently developing it&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Project II: Analysis of financial market prices</title>
+      <link>https://flaviomconde.github.io/Portafolio_DataAnalyst1/in/post/chapter-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <guid>https://flaviomconde.github.io/Portafolio_DataAnalyst1/in/post/chapter-2/</guid>
+      <description>We were hired by a company that seeks to invest in the stock market and asks you to analyze it in detail. Considering that the company does not know this financial area, it requests an explanation of what has happened in this market in recent years (considering positive and negative impacts since 2000), investment recommendations (whether focused on companies or sectors of these) and other complementary information that, as data experts, we are able to provide.</description>
+    </item>
+    <item>
+      <title>Project I: Recommendation System</title>
+      <link>https://flaviomconde.github.io/Portafolio_DataAnalyst1/in/post/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <guid>https://flaviomconde.github.io/Portafolio_DataAnalyst1/in/post/chapter-1/</guid>
+      <description>Starting from the context of the life cycle of a Machine Learning project, we must consider everything from the processing and collection of data (Data Engineer stuff) to the training and maintenance of the ML model as new data arrives. First, perform specific transformations on the data (ETL) to make it available through endpoints accessible through the API that was deployed in Render. Secondly, perform an EDA process on the data to build a movie recommendation system with machine learning.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://flaviomconde.github.io/Portafolio_DataAnalyst1/in/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://flaviomconde.github.io/Portafolio_DataAnalyst1/in/about/</guid>
+      <description>JAMAS TE RINDAS Data analysis and machine learning are my passion. My name is Flavio M Conde and I have been working in the field of data analysis for some time. I have carried out projects for companies in Argentina in the financial sector and also worked as a freelancer developing financial market analysis projects with the objective of investment. I have also carried out MLops (recommendation system) projects. With the aim of developing skills and sharing what I was learning, I decided to make videos of my learning process on TikTok.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://flaviomconde.github.io/Portafolio_DataAnalyst1/in/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://flaviomconde.github.io/Portafolio_DataAnalyst1/in/contact/</guid>
+      <description>Follow me on these social media platforms.&#xA;Platforms URL Linkedin: https://www.linkedin.com/in/flaviomconde/ Github: https://github.com/flaviomconde Tik Tok: https://www.tiktok.com/@flavio.conde.sw Email: flavio.conde92@gmail.com </description>
+    </item>
+  </channel>
+</rss>
